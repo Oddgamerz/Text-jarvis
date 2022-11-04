@@ -83,3 +83,4 @@ if __name__ == "__main__":
         elif 'toss' in query:
             toss = ("Heads","Tails")
             print(random.choice(toss))
+           
